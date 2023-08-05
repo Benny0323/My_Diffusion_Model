@@ -1,4 +1,4 @@
-# My_Diffusion_Model
+# Diffusion Model Feast
 This repository mostly provides a detailed description of the diffusion model (including code explanations, paper readings, etc.).
 Most of the materials are from Hugging Face Diffusion Models Course(https://github.com/huggingface/diffusion-models-class)
 
