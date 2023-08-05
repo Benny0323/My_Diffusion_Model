@@ -28,4 +28,4 @@ There are two parts to this unit, namely Introduction to Diffusers and Diffusion
 
 🤗 Some Awesome Diffusion Models: https://github.com/diff-usion/Awesome-Diffusion-Models
 
-
+Found more great resources? Let me know and I'll add them to this list.
