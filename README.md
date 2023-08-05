@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=FFFFFF)
-![](https://img.shields.io/badge/-googlecolab-F9AB00?style=flat-square&logo=googlecolab&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=FFFFFF)
 
 # Diffusion Model Feast
 This repository mostly provides a detailed description of the diffusion model (including code explanations, paper readings, etc.).
