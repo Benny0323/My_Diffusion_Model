@@ -6,6 +6,8 @@ Now, let's dive into it!
 
 👩‍🎓Unit 1: An Introduction to Diffusion Models
 
+https://colab.research.google.com/drive/19APZrmXaIfSsfiz2Oxdx42VBmLKjTxsj?usp=sharing
+
 🧨 Learn how to generate images and audio with the popular 🤗 Diffusers library
 
 🏋️‍♂️ Train your own diffusion models from scratch
