@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=jupyter&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=jupyter&logoColor=FFFFFF)
 
 
