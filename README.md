@@ -3,6 +3,7 @@ This repository mostly provides a detailed description of the diffusion model (i
 Most of the materials are from Hugging Face Diffusion Models Course(https://github.com/huggingface/diffusion-models-class)
 
 Now,let's dive into it!
+
 👩‍🎓Unit 1: An Introduction to Diffusion Models
 
 🧨 Learn how to generate images and audio with the popular 🤗 Diffusers library
