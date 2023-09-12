@@ -29,9 +29,9 @@ Models: popular architectures for training new diffusion models, e.g. UNet.
 
 Schedulers: various techniques for generating images from noise during inference as well as to generate noisy images for training.
 
-"!Two important things:"
+**!Two important things:**
 
-schedulers are "parameter-free (no trainable weights)"
+schedulers are **parameter-free (no trainable weights)**
 
 schedulers define the algorithm computing the slightly less noisy sample during inference
 
