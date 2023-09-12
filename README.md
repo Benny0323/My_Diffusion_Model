@@ -18,6 +18,9 @@ There are two parts to this unit, namely Introduction to Diffusers and Diffusion
 
 🧑‍🔬In Diffusion Models from Scratch, I show those same steps (adding noise to data, creating a model, training and sampling) but implemented from scratch in PyTorch as simply as possible. Then I compare this 'toy example' with the diffusers version, noting how the two differ and where improvements have been made. The goal here is to gain familiarity with the different components and the design decisions that go into them so that when you look at a new implementation you can quickly identify the key ideas.
 
+|\:art\:|Understaning the core API of Diffusers:
+https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/diffusers_intro.ipynb#scrollTo=QQXXMLKkCbUJ
+
 # Some Additional Resources
 
 🏋️‍♂️AI Coffee Break video on Diffusion Models: https://www.youtube.com/watch?v=344w5h24-h8
