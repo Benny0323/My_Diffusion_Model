@@ -21,6 +21,20 @@ There are two parts to this unit, namely Introduction to Diffusers and Diffusion
 \:art\:Understaning the core API of Diffusers:
 https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/diffusers_intro.ipynb#scrollTo=QQXXMLKkCbUJ
 
+Three components consist of the core of API of Diffusers:
+
+Pipelines: high-level classes designed to rapidly generate samples from popular trained diffusion models in a user-friendly fashion.
+
+Models: popular architectures for training new diffusion models, e.g. UNet.
+
+Schedulers: various techniques for generating images from noise during inference as well as to generate noisy images for training.
+
+"!Two important things:"
+
+schedulers are "parameter-free (no trainable weights)"
+
+schedulers define the algorithm computing the slightly less noisy sample during inference
+
 # Some Additional Resources
 
 🏋️‍♂️AI Coffee Break video on Diffusion Models: https://www.youtube.com/watch?v=344w5h24-h8
