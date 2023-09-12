@@ -33,7 +33,7 @@ Schedulers: various techniques for generating images from noise during inference
 
 schedulers are **parameter-free (no trainable weights)**
 
-schedulers define the algorithm computing the slightly less noisy sample during inference
+schedulers define the algorithm computing the slightly less noisy sample during inference, e.g.scheduler.set_timesteps()
 
 # Some Additional Resources
 
