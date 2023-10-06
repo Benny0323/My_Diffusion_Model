@@ -41,8 +41,6 @@ schedulers define the algorithm computing the slightly less noisy sample during 
 
 🏋️‍♂️Lil’Log about Diffusion Models: https://lilianweng.github.io/posts/2021-07-11-diffusion-models/
 
-🗺 Hungyi Lee's video on Diffusion Models: https://www.youtube.com/watch?v=azBugJzmz-o
-
 🤗 Some Awesome Diffusion Models: https://github.com/diff-usion/Awesome-Diffusion-Models
 
 Found more great resources? Let me know and I'll add them to this list.
