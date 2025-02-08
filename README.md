@@ -46,5 +46,4 @@ schedulers define the algorithm computing the slightly less noisy sample during 
 Found more great resources? Let me know and I'll add them to this list.
 
 ## Star History
-
 [![Star History Chart](https://api.star-history.com/svg?repos=Benny0323/My_Diffusion_Model&type=Date)](https://star-history.com/#Benny0323/My_Diffusion_Model&Date)
